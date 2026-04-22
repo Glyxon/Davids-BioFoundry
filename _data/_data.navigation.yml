@@ -1,1 +1,8 @@
-
+# Menu principal superior - Estética minimalista
+main:
+  - title: "Projects"
+    url: /projects/
+  - title: "Manifesto"
+    url: /manifesto/
+  - title: "About"
+    url: /about/
