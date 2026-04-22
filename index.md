@@ -1,8 +1,7 @@
 ---
 layout: air
 ---
-
-<style>
+<!DOCTYPE html><style>
   body { font-family: "Inter", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, oxygen, ubuntu, cantarell, "Open Sans", "Helvetica Neue", sans-serif; color: #1d1d1f; }
   .hero { padding: 100px 20px; text-align: left; max-width: 900px; margin: 0 auto; }
   .hero h1 { font-size: 4rem; font-weight: 700; line-height: 1.1; letter-spacing: -2px; margin-bottom: 20px; }
