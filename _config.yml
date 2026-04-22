@@ -1,40 +1,4 @@
-
-# --- Site Identity ---
-title: David's BioFoundry
-email: [tu-email]
-description: >- 
-  Biofísica Avanzada y Soberanía Molecular. 
-  Un ecosistema de ingeniería descentralizada para la biotecnología del futuro.
-baseurl: "" 
-url: "https://[tu-usuario].github.io"
-
-# --- Author Details ---
-author:
-  name: "David, PhD"
-  bio: "Biophysical Researcher | Founder of Glyxon Biolabs"
-  location: "Mexico City / Oxford Bound"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/[tu-usuario]"
-
-# --- Build Settings ---
-theme: minimal-mistakes-jekyll # O el tema que elijas
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-include-cache
-
-# --- Taxonomy ---
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
-# --- Features ---
-# Activa KaTeX o MathJax para tus ecuaciones de polimerasas
-markdown: kramdown
-kramdown:
-  math_engine: mathjax
+title: David BioFoundry
+remote_theme: pages-themes/minimal@v0.2.0
+baseurl: /David-BioFoundry-Core
+url: https://Glyxon.github.io
