@@ -1,43 +1,39 @@
 ---
-layout: splash
-author_profile: false
-header:
-  overlay_color: "#fff"
-  overlay_filter: "0.1"
-  overlay_image: /assets/images/banner-microscopy.jpg
+layout: air
 ---
 
-<div style="text-align: center; padding: 60px 0;">
-  <h1 style="font-size: 3em; font-weight: 200; letter-spacing: 4px;">DAVID'S BIOFOUNDRY</h1>
-  <p style="font-size: 1.2em; color: #666; letter-spacing: 1px;">Precision Engineering & Molecular Sovereignty</p>
-</div>
+<style>
+  body { font-family: "Inter", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, oxygen, ubuntu, cantarell, "Open Sans", "Helvetica Neue", sans-serif; color: #1d1d1f; }
+  .hero { padding: 100px 20px; text-align: left; max-width: 900px; margin: 0 auto; }
+  .hero h1 { font-size: 4rem; font-weight: 700; line-height: 1.1; letter-spacing: -2px; margin-bottom: 20px; }
+  .hero p { font-size: 1.5rem; font-weight: 300; color: #86868b; line-height: 1.4; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 50px; max-width: 900px; margin: 50px auto; padding: 0 20px; }
+  .project-card { border-top: 1px solid #d2d2d7; padding-top: 20px; }
+  .project-card h3 { font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; color: #000; }
+  .project-card p { font-size: 1rem; color: #515154; margin-top: 10px; }
+  hr { border: 0; border-top: 1px solid #d2d2d7; margin: 80px 0; }
+</style>
 
----
+<section class="hero">
+  <h1>David-BioFoundry</h1>
+  <p>Engineering the intersection of high-fidelity biophysics and molecular sovereignty.</p>
+</section>
 
-## 01. Research Pillars
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 40px; margin-top: 40px;">
-  <div>
-    <h3 style="border-bottom: 1px solid #eee; padding-bottom: 10px;">Optomechanics</h3>
-    <p style="font-size: 0.9em; color: #555;">Open-source instrumentation for high-resolution fluorescence imaging and 3D-printed labware.</p>
-    <a href="/projects/" style="text-decoration: none; font-weight: bold; color: #000;">VIEW PROJECT →</a>
+<div class="grid">
+  <div class="project-card">
+    <h3>01. Optomechanics</h3>
+    <p>Custom-engineered instrumentation for high-resolution biological imaging and 3D-printable modular labware.</p>
   </div>
-  <div>
-    <h3 style="border-bottom: 1px solid #eee; padding-bottom: 10px;">Molecular Forge</h3>
-    <p style="font-size: 0.9em; color: #555;">Autonomous synthesis of high-grade reagents and custom polymerases like Taqchyon.</p>
-    <a href="/projects/" style="text-decoration: none; font-weight: bold; color: #000;">VIEW PROJECT →</a>
+  <div class="project-card">
+    <h3>02. Molecular Forge</h3>
+    <p>Autonomous production of high-grade reagents and custom polymerases (Taqchyon / PHUria).</p>
   </div>
-  <div>
-    <h3 style="border-bottom: 1px solid #eee; padding-bottom: 10px;">Systems Logic</h3>
-    <p style="font-size: 0.9em; color: #555;">Behavioral phenotyping of C. elegans and digital microfluidics workflows.</p>
-    <a href="/projects/" style="text-decoration: none; font-weight: bold; color: #000;">VIEW PROJECT →</a>
+  <div class="project-card">
+    <h3>03. Systems Logic</h3>
+    <p>C. elegans behavioral phenotyping integrated with digital microfluidics and vision-based sorting.</p>
   </div>
-</div>
-
----
-
-<div style="padding: 80px 0; text-align: center; background-color: #fafafa;">
-  <blockquote style="border: none; font-style: italic; font-size: 1.5em; color: #333;">
-    "Science is not a building, but a method."
-  </blockquote>
-  <p style="margin-top: 20px;"><strong>GLYXON BIOLABS</strong> | 2026</p>
+  <div class="project-card">
+    <h3>04. Manifesto</h3>
+    <p>The Promethean Code: Explorations on DNA as sovereign software and decentralized science.</p>
+  </div>
 </div>
