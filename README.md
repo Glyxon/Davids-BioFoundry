@@ -1,51 +1,46 @@
-# 🧬 David-BioFoundry-Core
-> **Precision Engineering & Molecular Sovereignty Stack**
-
-Welcome to the central node of my decentralized laboratory. This repository is a multi-project ecosystem designed to bridge the gap between high-level biophysics and autonomous, open-source execution.
+# David-BioFoundry-Core
+### *Engineering the Future of Molecular Sovereignty*
 
 ---
 
-## 🛰️ Project Ecosystem
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tu-usuario/tu-repo/main/docs/assets/banner_foundry.jpg" width="100%" alt="BioFoundry Banner">
+</p>
 
-| Project | Domain | Status | Core Technology |
-| :--- | :--- | :--- | :--- |
-| **[Opto-Mechatronics]** | Hardware | 🟢 Active | OpenSCAD / 3D-Printing / LED 475nm |
-| **[Enzymatic Forge]** | Wetware | 🟡 Scaling | Taqchyon & PHUria Polymerases |
-| **[Nematode Logic]** | Bio-Systems | 🟢 Active | C. elegans / RNA-i / Memory Assays |
-| **[EWOD-Control]** | Automation | ⚪ Planned | Digital Microfluidics / Logic Gates |
+## 01. Research & Systems
+Nuestro laboratorio opera en la intersección de la biofísica de precisión y la soberanía biológica. Al igual que los sistemas de regulación epigenómica, nuestras plataformas están diseñadas para modular la complejidad biológica mediante hardware de código abierto y protocolos moleculares autónomos.
 
----
+<br>
 
-## 🛠️ Detailed Project Roadmap
-
-### 🔬 1. Advanced Optomechatronics
-Engineering scientific-grade instrumentation from the ground up.
-* **Modular Microscopy:** Custom inverted fluorescence setup for Royal Blue (475nm) excitation.
-* **Lab-to-Print:** Parametric designs for microfluidic housings and perfusion chambers.
-* **Goal:** Institutional resolution at a fraction of commercial costs.
-
-### 🧪 2. Molecular Sovereignty (The Forge)
-Eliminating supply-chain dependencies through autonomous reagent production.
-* **Enzyme Portfolio:** High-fidelity expression of *Taqchyon* and *PHUria* polymerases.
-* **Validation:** 16S rRNA gene activity assays and scaling protocols for commercial-grade purity.
-
-### 🐛 3. C. elegans Behavioral Phenotyping
-Investigating the intersection of genetics and memory encoding.
-* **RNA-i Pipeline:** Feed-induced genetic modulation workflows.
-* **LBMs (Large Biological Models):** Mapping behavioral outputs to connectome-driven logic.
+| [ 🔬 Optomechanics ] | [ 🧬 Enzymology ] | [ 🐛 Phenotyping ] |
+| :--- | :--- | :--- |
+| *Inverted Epifluorescence* | *Polymerase Forge* | *C. elegans Memory* |
+| **[View Project →]** | **[View Project →]** | **[View Project →]** |
 
 ---
 
-## 📊 Technical Stack
-![GitHub language count](https://img.shields.io/github/languages/count/USER_NAME/David-BioFoundry-Core?color=blue&style=flat-square)
-![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg?style=flat-square)
-* **CAD/CAM:** OpenSCAD, AutoCAD.
-* **Analysis:** Python (NumPy, SciPy, OpenCV).
-* **Embedded:** C++/Arduino for EWOD and LED control.
+## 02. The BioFoundry Stack
+Desarrollamos infraestructura crítica para laboratorios independientes, priorizando la reproducibilidad y el diseño de alta fidelidad.
+
+### **Molecular Engineering**
+Documentación completa para la síntesis de **Taqchyon** y **PHUria**, validando la actividad enzimática mediante modelos 16S. El objetivo es la eliminación de la dependencia de cadenas de suministro centralizadas.
+
+### **Optical Precision**
+Diseño paramétrico en OpenSCAD para instrumentación científica. Desde cámaras de perfusión hasta sistemas de iluminación Royal Blue (475nm) para screening de fluorescencia en tiempo real.
 
 ---
 
-## 📜 Manifesto
-*“Science is not a building, but a method. Sovereignty is not isolation, but the freedom to build.”*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tu-usuario/tu-repo/main/docs/assets/workflow_vision.jpg" width="80%" alt="Scientific Workflow">
+</p>
 
-Licensed under the **Apache License 2.0**. For collaboration or licensing Glyxon-derived technologies, please reach out.
+## 03. Selected Publications & Manifestos
+* **The Promethean Code:** Exploraciones sobre el ADN como software soberano.
+* **Open-Source Instrumentation:** Una guía para la biofundición de bajo costo.
+
+---
+
+<p align="center">
+  <b>Glyxon Biolabs | 2026</b><br>
+  <i>"Science is not a building, but a method."</i>
+</p>
